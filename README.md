@@ -1,4 +1,4 @@
-<div align="right"> <img src="https://news.uestc.edu.cn/upload/image/ec005725012b7f439624b6809ee39ee8.png"  style="zoom:20%;"> </div>
+<div align="right"> <img src="https://news.uestc.edu.cn/upload/image/ec005725012b7f439624b6809ee39ee8.png"  style="zoom:5%;"> </div>
 
 ### About Me
 
