@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div align="center"> <img src="https://metrics.lecoq.io/jinyu-xie?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-
+### Publications
+> Jiayi Li*, Jinyu Xie*, Yisi Luo, Xile Zhao, and Jianli Wang, ‘‘H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization’’, **IEEE Geoscience and Remote Sensing Letters**, 2023. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10181304) [\[code\]](https://github.com/jinyu-xie/H2TF) (*Equal contribution)
 
 
 
